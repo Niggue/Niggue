@@ -39,8 +39,4 @@ to put hands on the mud and apply the whole knowledge i have now to aim somethin
 ### What I'm learning
 
 I know that simply code and commands are not enough to enroll a data engineering job, so  
-I've been taking GCP and AWS courses in Coursera and by my own in tutorial.
-
-
-
-
+I've been taking GCP and AWS courses in Coursera and by my own in tutorials.
