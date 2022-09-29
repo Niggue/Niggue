@@ -12,7 +12,7 @@ to put hands on the mud and apply the whole knowledge i have now to aim somethin
 > :ghost: You can check my xcrape repository to see cool web-scraping focused applications.
 > :candy: Also I save all the mix apps in the xlocal Repo. So there are codes whose do some cool stuffs.
 
-#### And wheater you by any chance are a Recruter... :question: (Danger)
+#### And whether you by any chance are a Recruter... :question: (Danger)
 
 > I plenty recommend you check the *xlocal* Repo. You won't be disappointed.  
 
