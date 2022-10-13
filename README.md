@@ -9,7 +9,7 @@ to put hands on the mud and apply the whole knowledge i have now to aim somethin
 #### For now in this Repo you're gonna find xampls, some little application and projects.
 
 > :recycle: First of all I recommend you see all my training-road, if you're interested in know how to improve your skills
-> :ghost: You can check my xcrape repository to see cool web-scraping focused applications.
+> :ghost: You can check my xampl repository to see cool training, tests and web-scraping focused examples.
 > :candy: Also I save all the mix apps in the xlocal Repo. So there are codes whose do some cool stuffs.
 
 #### And whether you by any chance are a Recruter... :question: (Danger)
